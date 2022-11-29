@@ -1,0 +1,294 @@
+@charset "UTF8";
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patua+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script&display=swap');
+
+
+
+
+body{
+    border: solid 1px black;
+    border-radius: 9px;
+   box-shadow: 3px 3px 3px 3px black; 
+   line-height: 2;
+  
+   
+}
+.inicio{
+    border: solid 2px black;
+    background-image: url("https://img.freepik.com/vetores-gratis/fundo-gradiente-da-paisagem-do-por-do-sol-da-praia_23-2148979774.jpg?w=740&t=st=1669665191~exp=1669665791~hmac=08cf82fcf5b0d6e8ae52fd93c5ee9b12944f8ef34a9f3e8eb24b812f9607709c");
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+.sol{
+    text-align: center;
+ 
+}
+   
+
+
+header{
+    padding: 10px;
+    background-image: url("https://img.freepik.com/vetores-gratis/fundo-moderno-abstrato-com-padrao-de-cristal-transparente-azul_1409-1283.jpg?w=900&t=st=1669682146~exp=1669682746~hmac=e0240bfd1c9f582034238a54b312813a0b3104ecc57923ef8bc706970ac3f174");
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+    
+   
+}
+
+
+
+h1{
+    background-color: rgba(181, 179, 179, 0.467);
+    text-align: center;
+    padding: 30px;
+    border-radius: 4px;
+    background-image: url("imagens/ll\,.jpg");
+    background-position:  right center  ;
+    background-repeat: no-repeat;
+    background-size: cover ;
+    font-size: 50px;
+    background-position: left;
+    background-repeat: no-repeat;
+    border-radius: 4px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.426);
+    
+}
+
+
+
+
+h2{
+    background-color: rgba(179, 171, 158, 0.585);
+    text-align: center;
+   font-size: 40px;
+    padding: 30px; 
+    background-image: url("imagens/ll\,.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 4px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.426);
+}
+
+   
+.textrn{
+ font-family: Arial, Helvetica, sans-serif;
+margin: 1px;
+font-size: 25px;
+text-indent: 3em;
+margin-bottom: 20px;
+border: solid black;
+border-radius: 10px;
+display: inline-block;
+background-image: url("https://img.freepik.com/vetores-gratis/fundo-de-banner-moderno-com-ondas-azuis_1035-19862.jpg?w=826&t=st=1669681893~exp=1669682493~hmac=3407616efeeb38de80b910bf020a5d7d5bdc203c3d5b351b57bc423431c62d70");
+background-repeat: no-repeat;
+background-size: cover;
+background-color: white;
+padding: 10px;
+box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.33);
+}
+
+    
+.text1>p{
+    font-family: Arial, Helvetica, sans-serif;
+margin: 1px;
+font-size: 25px;
+text-indent: 3em;
+margin-bottom: 20px;
+border: solid black;
+border-radius: 10px;
+background-image: url("https://img.freepik.com/vetores-gratis/fundo-de-banner-moderno-com-ondas-azuis_1035-19862.jpg?w=826&t=st=1669681893~exp=1669682493~hmac=3407616efeeb38de80b910bf020a5d7d5bdc203c3d5b351b57bc423431c62d70");
+background-repeat: no-repeat;
+background-size: cover;
+background-color: white;
+padding: 10px;
+box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.33);
+
+}
+    
+
+
+.text2>p{
+    font-family: Arial, Helvetica, sans-serif;
+margin: 1px;
+font-size: 25px;
+text-indent: 3em;
+text-align: left;
+background-image: url("https://img.freepik.com/vetores-gratis/fundo-de-banner-moderno-com-ondas-azuis_1035-19862.jpg?w=826&t=st=1669681893~exp=1669682493~hmac=3407616efeeb38de80b910bf020a5d7d5bdc203c3d5b351b57bc423431c62d70");
+background-repeat: no-repeat;
+background-size: cover;
+margin-bottom: 20px;
+border: solid black;
+border-radius: 10px;
+display: inline-block;
+height: 400px;
+background-color: white;
+padding: 10px;
+box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.33);
+
+
+}
+.text3>p{
+    font-family: Arial, Helvetica, sans-serif;
+margin: 1px;
+font-size: 25px;
+text-indent: 3em;
+margin-bottom: 20px;
+border: solid black;
+border-radius: 10px;
+background-image: url("https://img.freepik.com/vetores-gratis/fundo-de-banner-moderno-com-ondas-azuis_1035-19862.jpg?w=826&t=st=1669681893~exp=1669682493~hmac=3407616efeeb38de80b910bf020a5d7d5bdc203c3d5b351b57bc423431c62d70");
+background-repeat: no-repeat;
+background-size: cover;
+
+background-color: white;
+padding: 10px;
+box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.33);
+
+
+}
+.text4>p{
+    font-family: Arial, Helvetica, sans-serif;
+margin: 1px;
+font-size: 25px;
+text-indent: 3em;
+margin-bottom: 20px;
+border: solid black;
+border-radius: 10px;
+display: inline-block;
+background-image: url("https://img.freepik.com/vetores-gratis/fundo-de-banner-moderno-com-ondas-azuis_1035-19862.jpg?w=826&t=st=1669681893~exp=1669682493~hmac=3407616efeeb38de80b910bf020a5d7d5bdc203c3d5b351b57bc423431c62d70");
+background-repeat: no-repeat;
+background-size: cover;
+background-color: white;
+padding: 10px;
+box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.33);
+
+
+}
+.text5>p{
+    font-family: Arial, Helvetica, sans-serif;
+margin: 1px;
+font-size: 25px;
+text-indent: 3em;
+margin-bottom: 20px;
+border: solid black;
+border-radius: 10px;
+display: inline-block;
+background-image: url("https://img.freepik.com/vetores-gratis/fundo-de-banner-moderno-com-ondas-azuis_1035-19862.jpg?w=826&t=st=1669681893~exp=1669682493~hmac=3407616efeeb38de80b910bf020a5d7d5bdc203c3d5b351b57bc423431c62d70");
+background-repeat: no-repeat;
+background-size: cover;
+background-color: white;
+padding: 10px;
+box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.33);
+
+
+}
+.text6>p{
+    font-family: Arial, Helvetica, sans-serif;
+margin: 1px;
+font-size: 25px;
+text-indent: 3em;
+margin-bottom: 20px;
+border: solid black;
+border-radius: 10px;
+display: inline-block;
+background-image: url("https://img.freepik.com/vetores-gratis/fundo-de-banner-moderno-com-ondas-azuis_1035-19862.jpg?w=826&t=st=1669681893~exp=1669682493~hmac=3407616efeeb38de80b910bf020a5d7d5bdc203c3d5b351b57bc423431c62d70");
+background-repeat: no-repeat;
+background-size: cover;
+background-color: white;
+padding: 10px;
+box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.33);
+
+
+}
+
+section>h2{
+    text-align: center;
+}
+section.img1{
+
+width: 100%;
+height: 100vh;
+background-image: url("imagens/114-e1482426803153.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center center;
+background-attachment: fixed;
+box-shadow:  3px 3px 3px 3px rgba(0, 0, 0, 0.735);
+
+}
+
+section.img2{
+
+width: 100%;
+height: 100vh;
+background-image: url("imagens/praia-da-redinha-20191210142534.jpg.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center center;
+background-attachment: fixed;
+box-shadow:  3px 3px 3px 3px rgba(0, 0, 0, 0.735);
+
+}
+
+section.img3{
+
+width: 100%;
+height: 100vh;
+background-image: url("imagens/maracajau.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center center;
+background-attachment: fixed;
+box-shadow:  3px 3px 3px 3px rgba(0, 0, 0, 0.735);
+}
+ section.img4{
+
+width: 100%;
+height: 100vh;
+background-image: url("imagens/galinhos-rn-villa-park.png");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center center;
+background-attachment: fixed;
+box-shadow:  3px 3px 3px 3px rgba(0, 0, 0, 0.735);
+}
+section.img5{
+
+width: 100%;
+height: 100vh;
+background-image: url("imagens/barra\ de\ cunhau.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center center;
+background-attachment: fixed;
+box-shadow:  3px 3px 3px 3px rgba(0, 0, 0, 0.735);
+}
+section.img6{
+width: 100%;
+height: 100vh;
+background-image: url("imagens/2.+São+Miguel+do+Gostoso+-+Foto+@GiovanniSergio-1920w.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center center;
+background-attachment: fixed;
+box-shadow:  3px 3px 3px 3px rgba(0, 0, 0, 0.735);
+}
+
+footer{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.329);
+   
+}
+
+
+
+
+                    
+                
+            
+        
